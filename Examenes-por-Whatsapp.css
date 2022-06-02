@@ -1,0 +1,430 @@
+ .u-section-1 {
+  background-image: url("images/81940654-el-joven-estudiante-est-haciendo-un-examen-de-matemticas-y-no-sabe-cmo-resolver-problemas-matemt.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 937px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  background-image: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 1.25rem;
+  margin: 746px auto 41px;
+  padding: 14px 40px 15px;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 4.1876em;
+  margin-right: 11px;
+  vertical-align: -23px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 773px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 592px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 444px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 280px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 245px;
+}
+
+.u-section-2 .u-text-1 {
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-size: 1.875rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  background-image: none;
+  margin: 48px 51px 53px 83px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 687px;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 737px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 3rem;
+  margin: 115px 31px 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 73px 31px 0;
+}
+
+.u-section-3 .u-list-1 {
+  grid-template-rows: auto;
+  margin: 55px 0 53px;
+}
+
+.u-section-3 .u-repeater-1 {
+  grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
+  grid-gap: 10px 10px;
+  min-height: 245px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-3 {
+  font-size: 4.5rem;
+  width: 143px;
+  font-weight: 700;
+  margin: 34px auto 0;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-3 .u-text-4 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 1.125rem;
+  margin: 12px 0 0;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-5 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  width: 143px;
+  margin: 34px auto 0;
+}
+
+.u-section-3 .u-text-6 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 1.125rem;
+  margin: 12px 0 0;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-7 {
+  font-size: 4.5rem;
+  width: 143px;
+  font-weight: 700;
+  margin: 34px auto 0;
+}
+
+.u-section-3 .u-text-8 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 1.125rem;
+  margin: 12px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-list-1 {
+    height: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-repeater-1 {
+    grid-template-columns: calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-repeater-1 {
+    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1280px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: auto;
+    margin-top: 0;
+  }
+
+  .u-section-3 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-3 .u-text-3 {
+    font-size: 3rem;
+  }
+
+  .u-section-3 .u-text-5 {
+    font-size: 3rem;
+  }
+
+  .u-section-3 .u-text-7 {
+    font-size: 3rem;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 54px;
+}.u-block-82ae-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-82ae-3 {
+  position: absolute;
+  left: 0;
+  width: 65px;
+  height: 65px;
+  right: auto;
+}
+
+.u-block-82ae-4 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: auto;
+  right: calc(((100% - 1140px) / 2)  + -47px);
+}
+
+@media (max-width: 1199px) {
+  .u-block-82ae-4 {
+    right: calc(((100% - 940px) / 2)  + -39px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-block-82ae-4 {
+    right: calc(((100% - 720px) / 2)  + -30px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-block-82ae-4 {
+    right: calc(((100% - 540px) / 2)  + -22px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-block-82ae-4 {
+    right: calc(((100% - 340px) / 2)  + -14px);
+  }
+}
+
+ .u-section-5-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/aprendizaje-basado-problemas-matematicas-portada.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5-1 .u-sheet-1 {
+  min-height: 909px;
+}
+
+.u-section-5-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  margin: 173px -59px 0 0;
+}
+
+.u-section-5-1 .u-btn-1 {
+  border-style: solid;
+  background-image: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 1.25rem;
+  margin: 145px auto 60px;
+  padding: 14px 40px 15px;
+}
+
+.u-section-5-1 .u-icon-1 {
+  font-size: 4.1876em;
+  margin-right: 11px;
+  vertical-align: -23px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5-1 .u-text-1 {
+    margin-top: 60px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5-1 .u-sheet-1 {
+    min-height: 925px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5-1 .u-sheet-1 {
+    min-height: 843px;
+  }
+}
+
+ .u-section-5-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/19698646-mujer-joven-que-mira-el-problema-de-matemticas-en-la-pizarra.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5-2 .u-sheet-1 {
+  min-height: 909px;
+}
+
+.u-section-5-2 .u-text-1 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  margin: 238px -15px 0 auto;
+}
+
+.u-section-5-2 .u-btn-1 {
+  border-style: solid;
+  background-image: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 1.25rem;
+  margin: 173px 395px 60px auto;
+  padding: 14px 34px 15px 33px;
+}
+
+.u-section-5-2 .u-icon-1 {
+  font-size: 4.1876em;
+  margin-right: 11px;
+  vertical-align: -23px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5-2 .u-text-1 {
+    margin-top: 60px;
+  }
+
+  .u-section-5-2 .u-btn-1 {
+    margin-right: 195px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5-2 .u-btn-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5-2 .u-sheet-1 {
+    min-height: 925px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5-2 .u-sheet-1 {
+    min-height: 843px;
+  }
+} .u-section-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Screenshot_13.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-6 .u-text-1 {
+  font-size: 3rem;
+  text-shadow: 2px 2px 8px rgba(128,128,128,1);
+  margin: 307px 91px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 781px;
+  }
+
+  .u-section-6 .u-text-1 {
+    font-size: 2.25rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 782px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 818px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 735px;
+  }
+}
